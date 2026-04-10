@@ -1,4 +1,0 @@
-# Build settings
-baseurl: "/kb-sharp" # the subpath of your site, e.g. /blog
-url: "https://isncg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme: minima
